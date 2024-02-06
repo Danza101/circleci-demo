@@ -1,0 +1,1 @@
+print("are not smart then do you know whats eight thousand divivded by ten")
